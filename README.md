@@ -1,0 +1,2 @@
+# lu2025
+Repositório da turma de 2025 1TSCPF
